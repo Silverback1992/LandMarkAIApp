@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandMarkAI", "LandMarkAI\LandMarkAI.csproj", "{2ED50981-CDD7-4D76-91F3-E446B72153B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED50981-CDD7-4D76-91F3-E446B72153B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED50981-CDD7-4D76-91F3-E446B72153B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED50981-CDD7-4D76-91F3-E446B72153B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED50981-CDD7-4D76-91F3-E446B72153B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D025B84-3643-428C-B1AF-E1532A14B979}
+	EndGlobalSection
+EndGlobal
